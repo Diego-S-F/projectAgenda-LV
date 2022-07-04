@@ -1,3 +1,10 @@
+##Agenda
+
+Resultado de las vistas generadas.
+
+![LV-0](https://user-images.githubusercontent.com/71957876/177069947-91c656ba-6695-4ac6-8f36-2ab985fb3019.png)
+![LV-1](https://user-images.githubusercontent.com/71957876/177069951-94905afb-0986-4a93-a5eb-8370156ae7fd.png)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
